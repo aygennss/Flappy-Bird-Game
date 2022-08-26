@@ -1,0 +1,10 @@
+C:\Users\AYGENN\source\repos\flappybird\flappybird\bin\Debug\flappybird.exe.config
+C:\Users\AYGENN\source\repos\flappybird\flappybird\bin\Debug\flappybird.exe
+C:\Users\AYGENN\source\repos\flappybird\flappybird\bin\Debug\flappybird.pdb
+C:\Users\AYGENN\source\repos\flappybird\flappybird\obj\Debug\flappybird.csprojAssemblyReference.cache
+C:\Users\AYGENN\source\repos\flappybird\flappybird\obj\Debug\flappybird.Form1.resources
+C:\Users\AYGENN\source\repos\flappybird\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+C:\Users\AYGENN\source\repos\flappybird\flappybird\obj\Debug\flappybird.csproj.GenerateResource.cache
+C:\Users\AYGENN\source\repos\flappybird\flappybird\obj\Debug\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\AYGENN\source\repos\flappybird\flappybird\obj\Debug\flappybird.exe
+C:\Users\AYGENN\source\repos\flappybird\flappybird\obj\Debug\flappybird.pdb
